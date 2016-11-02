@@ -1,0 +1,19 @@
+{
+  "name": "xpression",
+  "version": "1.0.0",
+  "description": "x-pressions plus window design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelChristianson/xpression.git"
+  },
+  "author": "Michael Christianson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelChristianson/xpression/issues"
+  },
+  "homepage": "https://github.com/MichaelChristianson/xpression#readme"
+}
